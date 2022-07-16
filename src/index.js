@@ -1,4 +1,4 @@
-import setObjectPolyfill from './libs/polyfills/object';//demo18
+import setObjectPolyfill from './libs/polyfills/object';//demo19
 import setStringPolyfill from './libs/polyfills/string';
 import read from './read';
 import Document from './document/index';
